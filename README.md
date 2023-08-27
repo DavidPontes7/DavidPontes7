@@ -6,7 +6,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-pontes-de-jesus-3b7430277/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcRwQMHjWnlTCTmxlTHjZtVZWlqDDZXVljQwXmZsTqGDfgnjVpbDjxtbwFPqKRjLzCRjRTnGX)
 
 
 ## Tecnologias que eu utilizo
